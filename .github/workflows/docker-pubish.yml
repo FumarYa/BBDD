@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: fumarya/bbdd:latest , fumarya/bbdd:latest
+          tags: castaan/bbdd:latest , castaan/bbdd:latest
